@@ -2,8 +2,8 @@
 <div align="center">
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" height="200" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 
   <br/>
@@ -19,10 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="30" alt="vulkan logo" />
     <img src="https://www.khronos.org/assets/images/api_logos/spirv.svg" height="35" alt="spir-v logo" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="35" alt="opengl logo" />    
-  </div>
-  
-  <img src="https://raw.githubusercontent.com/Siddharth2077/Siddharth2077/output/snake.svg" alt="Snake animation" />
-  
+  </div> 
 
 
 </div>
