@@ -1,26 +1,32 @@
 
-<div align="center">
+<div align="center" width="100%" style="display:flex;flex-direction:row;">
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" width="50%" alt="languages graph"  />
+
   </div>
 
-  <br/>
-
-  <div align="center">
-    <img width="5" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="visual studio logo" />
-    <img width="10" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="30" alt="vs code logo" />
-    <img width="10" />
-    <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="30" alt="vulkan logo" />
-    <img width="5" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="30" alt="vulkan logo" />
-    <img src="https://www.khronos.org/assets/images/api_logos/spirv.svg" height="35" alt="spir-v logo" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="35" alt="opengl logo" />    
-  </div> 
-
+  <div>
+    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" width="50%" alt="streak graph"  />
+  </div>
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img width="5" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="visual studio logo" />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="30" alt="vs code logo" />
+  <img width="10" />
+  <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="30" alt="vulkan logo" />
+  <img width="5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="30" alt="vulkan logo" />
+  <img src="https://www.khronos.org/assets/images/api_logos/spirv.svg" height="35" alt="spir-v logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="35" alt="opengl logo" />    
+</div> 
+
+
+
 
