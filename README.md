@@ -14,11 +14,10 @@
 <br/>
 
 <div align="center">
-  <img width="5" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="35" alt="visual studio logo" />
-  <img width="10" />
+  <img width="13" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="35" alt="vs code logo" />
-  <img width="10" />
+  <img width="13" />
   <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="35" alt="vulkan logo" />
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="35" alt="vulkan logo" />
