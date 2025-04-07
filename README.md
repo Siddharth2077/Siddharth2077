@@ -13,7 +13,8 @@
 
 <br/>
 
-<div align="center">
+<div align="center" width="100%">
+  <img width="13" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="35" alt="visual studio logo" />
   <img width="13" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="35" alt="vs code logo" />
