@@ -15,16 +15,18 @@
 
 <div align="center">
   <img width="5" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="visual studio logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="35" alt="visual studio logo" />
   <img width="10" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="30" alt="vs code logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="35" alt="vs code logo" />
   <img width="10" />
-  <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="30" alt="vulkan logo" />
+  <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="35" alt="vulkan logo" />
   <img width="5" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="30" alt="vulkan logo" />
-  <img src="https://www.khronos.org/assets/images/api_logos/spirv.svg" height="35" alt="spir-v logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="35" alt="opengl logo" />    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="35" alt="vulkan logo" />
+  <img src="https://www.khronos.org/assets/images/api_logos/spirv.svg" height="40" alt="spir-v logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="40" alt="opengl logo" />    
 </div> 
+
+<br/>
 
 
 
