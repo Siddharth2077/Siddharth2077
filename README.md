@@ -1,13 +1,12 @@
-
 <div align="center" width="100%"">
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" width="60%" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" width="70%" alt="languages graph"  />
 
   </div>
 
   <div>
-    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" width="60%" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" width="70%" alt="streak graph"  />
   </div>
 
 </div>
