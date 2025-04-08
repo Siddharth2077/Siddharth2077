@@ -7,10 +7,6 @@
 
   </div>
 
-  <div>
-    <img src="https://streak-stats.demolab.com?user=Siddharth2077&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" width="65%" alt="streak graph"  />
-  </div>
-
 </div>
 
 <br/>
