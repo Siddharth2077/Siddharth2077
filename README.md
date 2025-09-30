@@ -9,7 +9,7 @@
 
 </div>
 
-<br/>
+<!-- <br/>
 
 <div align="center" width="100%">
   <img width="13" />
@@ -18,9 +18,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="35" alt="vulkan logo" />
   <img src="https://www.khronos.org/assets/images/api_logos/spirv.svg" height="40" alt="spir-v logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="40" alt="opengl logo" />    
-</div> 
+</div>  
 
-<br/>
+<br/> -->
 
 
 
